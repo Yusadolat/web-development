@@ -16,7 +16,7 @@ We believe that learning happens best when you experiment with code from Day 1. 
 
 ## Learn yourself
 
-Discovering that you can be self taught is an amazing experience. We don't believe in the idea of soemone being there to train you. It limits your potential and doesn't give you a lot of room to grow. We'll never teach you at HackerBay University. We'll however help you learn how to learn on your own so that you are set for life and don't have to wait on anyone to learn and grow. Internet is the best reosurce in the world.
+Discovering that you can be self taught is an amazing experience. We don't believe in the idea of soemone being there to train you. It limits your potential and doesn't give you a lot of room to grow. We'll never teach you at HackerBay University. We'll however help you learn how to learn on your own so that you are set for life and don't have to wait on anyone to learn and grow. Internet is the best resurce in the world.
 
 ## Course content
 
